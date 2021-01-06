@@ -20,4 +20,6 @@ GUI inspired by: https://en.lichess.org/
 
 Chess board image was taken from lichess website as well. The images for the pieces came from: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Chess_Pieces_Sprite.svg/2000px-Chess_Pieces_Sprite.svg.png
 
+Go and Follow my instagram account: coding_illusions_etc
+
 ENJOY!
